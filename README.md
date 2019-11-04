@@ -23,3 +23,8 @@ The correlation is depicted using Pearson's correlation coefficient.
 
 The trained models will be capable of classifying the workload on any subject based 
 on the EEG recordings and predict whether the user is having high, low or no workload. 
+
+#### Group Members:
+
+	Arpit Shah 
+	Ami Doshi
